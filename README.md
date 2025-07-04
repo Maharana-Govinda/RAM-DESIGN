@@ -57,4 +57,4 @@ The task can be applied to create larger memory modules (like SRAM blocks), whic
 
 #OUTPUT 
 
-
+![Image](https://github.com/user-attachments/assets/228708fc-06d6-4382-b9b5-4755f98b5b4b)
